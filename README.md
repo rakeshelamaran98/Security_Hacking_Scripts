@@ -1,4 +1,4 @@
-# Security_Hacking_Scripts
+# HacktoberFest 2020
 
 **Encryption Algo Scripts, Ethical Hacking Scripts, Cybersecurity-Ethical Hacking Learning Resources and Security Based Projects**
 
@@ -45,14 +45,14 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Now let's bring the cloned repository to your local machine.  
 `git clone <url-you-just-copied>`  
 For example:  
-` git clone https://github.com/mbcse/Security_Hacking_Scripts.git`
+` git clone https://github.com/rakeshelamaran98/HacktoberFest2020.git`
 
 ---
 
 ## 3. Move inside the repository
 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
-`cd Security_Hacking_Scripts`
+`cd HacktoberFest2020`
 
 ---
 
